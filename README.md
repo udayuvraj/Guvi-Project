@@ -65,7 +65,7 @@ Register, log in, and explore the profile features.
 
 ![signup11main](https://github.com/udayuvraj/Guvi-Project/assets/115024258/0878050a-fafe-4682-87fa-c62a2ec96894)
 ![signup](https://github.com/udayuvraj/Guvi-Project/assets/115024258/6107f66e-1371-49bf-8494-9e471c6bc72a)
-![logout](https://github.com/udayuvraj/Guvi-Project/assets/115024258/c8bc34db-fb48-422c-b664-66a875125a8d)
-![edit det](https://github.com/udayuvraj/Guvi-Project/assets/115024258/85eca76e-dace-4739-b11b-c334be30e912)
 ![welcomww](https://github.com/udayuvraj/Guvi-Project/assets/115024258/15f0e804-3bde-4b47-b52a-e8869446e783)
+![edit det](https://github.com/udayuvraj/Guvi-Project/assets/115024258/85eca76e-dace-4739-b11b-c334be30e912)
+![logout](https://github.com/udayuvraj/Guvi-Project/assets/115024258/c8bc34db-fb48-422c-b664-66a875125a8d)
 ![codefor](https://github.com/udayuvraj/Guvi-Project/assets/115024258/884a02c8-d977-44c6-97bb-37836184376b)
