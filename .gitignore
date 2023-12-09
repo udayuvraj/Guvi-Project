@@ -1,0 +1,4 @@
+/predis/
+/vendor/
+composer.json
+composer.lock
