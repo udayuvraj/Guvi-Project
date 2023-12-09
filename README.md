@@ -1,53 +1,54 @@
 This project implements a user authentication system with registration, login, profile management, and logout functionalities. The frontend is built using Bootstrap for a clean and responsive user interface, and the backend is powered by PHP. The communication between the frontend and backend is facilitated through AJAX requests.
 
 Features
-Registration/Signup Page:
+*Registration/Signup Page:*
 
 Users can register by providing their email and password.
-Login Page:
+*Login Page:*
 
 Registered users can log in using their credentials.
-Profile Page:
+*Profile Page:*
 
 Upon successful login, users are redirected to their profile page.
 Users can view their details and edit them as needed.
-Logout:
+*Logout:*
 
 Users can securely log out of their accounts.
 Backend Technologies
-PHP:
+*PHP:*
 
 The backend logic is implemented using PHP.
-MySQL:
+*MySQL:*
 
 MySQL database is used for storing email and password information for authentication.
-MongoDB:
+*MongoDB:*
 
 MongoDB is employed to store additional details of the user beyond authentication.
-Redis:
+*Redis:*
 
 Redis is utilized for storing session information.
 Frontend Framework
-Bootstrap:
+*Bootstrap:*
 Bootstrap is used to design a visually appealing and responsive user interface.
 Data Storage Configuration
-MySQL Database (phpMyAdmin):
+*MySQL Database (phpMyAdmin):*
 
 Stores email and password for user authentication.
-MongoDB (Local):
+*MongoDB (Local):*
 
 Holds additional user details beyond authentication.
 Token Storage
 Local Storage:
 User tokens are stored securely in the local storage.
 Libraries Used
-Predis:
+*Predis:*
 
 The Predis library is utilized for seamless integration of Redis with PHP.
-MongoDB Composer:
+*MongoDB Composer:*
 
 MongoDB Composer is added to the PHP backend for convenient use of MongoDB.
-Installation
+
+*Installation*
 Clone the repository.
 Set up a local server environment with PHP, MySQL, MongoDB, and Redis.
 Import the MySQL database schema using phpMyAdmin.
